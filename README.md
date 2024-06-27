@@ -1,6 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/744384056/97683e08-ebaf-4cb7-aa03-ed0dff4efe2f">
-<!-- are you here for a flag? well good to see you trying. but if you really interested into radio-astronomy, SDR, radiology, Radio hacking. Feel free to knock me telegram-->
-<!-- tg id: https://t.me/lwO_Owl -->
+
 
 ## SDR, HAM and Radio Astronomy stuffs
 Apart from cyber security, I have a great passion for Astronomy and Radio.<br>
